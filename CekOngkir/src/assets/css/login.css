@@ -1,0 +1,27 @@
+.kanan {
+    background-color: #f6f9ff;
+}
+
+ .kanan .buddy img {
+    margin-right: 15px;
+    width: 40px;
+}
+
+.kanan .buddy span {
+    font-weight: 600;
+    font-size: 12px;
+}
+
+.lupa-password{
+    display: flex;
+    justify-content: end;
+}
+
+.boxLogin{
+    height: 100%;
+    align-items: center;
+}
+
+.judul {
+    padding: 50px 0;
+}
